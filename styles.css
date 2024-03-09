@@ -1,0 +1,34 @@
+.container{
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  flex-direction: column;
+}
+.another{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+footer{
+  text-align: center;
+  background-color: #5086AF;
+  height: 3rem; 
+  padding: 1%;
+  color: white;
+}
+h1{
+  color:#5057AF;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: "Madimi One", sans-serif;
+}
+p{
+  text-align: center;
+  color: #50AFA9;
+  font-size: 20px;
+  font-weight: 300;
+  font-family: "Madimi One", sans-serif;
+}
+
+
